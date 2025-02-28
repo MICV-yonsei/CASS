@@ -3,6 +3,7 @@
 
 [[Project Page]](https://micv-yonsei.github.io/cass/) [[arXiv]](https://arxiv.org/pdf/2411.17150)  
 <be>
+<img width="1775" alt="Image" src="https://github.com/user-attachments/assets/f9def7fd-537c-4ecc-897b-57edacc72efb" />
 > #### **Distilling Spectral Graph for Object-Context Aware Open-Vocabulary Semantic Segmentation**<be>  
 >IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2025  
 >Chanyoung Kim, Dayun Ju, Woojung Han, Ming-Hsuan Yang, Seong Jae Hwang  
