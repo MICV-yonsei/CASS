@@ -14,7 +14,7 @@ model = dict(
 
 # dataset settings
 dataset_type = 'COCOObjectDataset'
-data_root = '/nfs/home/chanyoung/kochanha/freeda/src/data/coco_object/'
+data_root = ''
 
 test_pipeline = [
     dict(type='LoadImageFromFile'),

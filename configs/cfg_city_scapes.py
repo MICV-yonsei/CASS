@@ -13,7 +13,7 @@ model = dict(
 
 # dataset settings
 dataset_type = 'CityscapesDataset'
-data_root = '/nfs/home/chanyoung/kochanha/freeda/src/data/cityscapes/'
+data_root = ''
 
 
 test_pipeline = [

@@ -13,7 +13,7 @@ model = dict(
 
 # dataset settings
 dataset_type = 'PascalContext59Dataset'
-data_root = '/nfs/home/chanyoung/kochanha/freeda/src/data/VOCdevkit/VOC2010/'
+data_root = ''
 
 test_pipeline = [
     dict(type='LoadImageFromFile'),

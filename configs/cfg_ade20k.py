@@ -13,7 +13,7 @@ model = dict(
 
 # dataset settings
 dataset_type = 'ADE20KDataset'
-data_root = '/nfs/home/chanyoung/kochanha/freeda/src/data/ade/ADEChallengeData2016/'
+data_root = ''
 
 test_pipeline = [
     dict(type='LoadImageFromFile'),
